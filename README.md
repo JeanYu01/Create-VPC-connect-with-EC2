@@ -7,6 +7,7 @@
 # 步驟1: 建立VPC
 
 1.輸入搜尋VPC
+
 ![image](https://github.com/JeanYu01/Create-VPC-connect-with-EC2/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-15%20121944.png)
 
 2.選取 建立VPC
@@ -90,6 +91,7 @@
 # 步驟3: 建立EC2
 
 25.建立EC2
+
 ![image](https://github.com/JeanYu01/Create-VPC-connect-with-EC2/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-15%20123357.png)
 
 26.設定EC2名稱 選取機器類型Linux
@@ -116,5 +118,6 @@
 ![image](https://github.com/JeanYu01/Create-VPC-connect-with-EC2/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-15%20123546.png)
 
 33.檢查EC2運行狀態
+
 ![image](https://github.com/JeanYu01/Create-VPC-connect-with-EC2/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-15%20123616.png)
 
